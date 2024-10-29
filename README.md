@@ -1,9 +1,8 @@
-## Solana Web Wallet
+## Web Wallet
 
-##### This is a web based solana wallet, build with solana wallet adapter.
-  
-- It icludes features like that lets a user connect to there Sol Wallet
-- It lets the user Sign a transaction
-- It lets the user send Tokens to other wallets
-- It lets the user aridrop some sol. (currently only devnet)
+##### This is a web based wallet.
+
+- It generate a keypair and let the user generate a wallet to interact with blockchain
+- Currently it lets a user create a Solana Wallet and an Etherium Wallet. 
+
   
