@@ -1,8 +1,9 @@
-# React + Vite
+## Solana Web Wallet
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##### This is a web based solana wallet, build with solana wallet adapter.
+  
+- It icludes features like that lets a user connect to there Sol Wallet
+- It lets the user Sign a transaction
+- It lets the user send Tokens to other wallets
+- It lets the user aridrop some sol. (currently only devnet)
+  
